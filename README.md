@@ -14,7 +14,7 @@
 |:----:|:----:|:----:|:----:|
 |100|晴|Sunny/Clear|[100.png](https://cdn.heweather.com/cond_icon/100.png "晴天图标")|
 |101|多云|Cloudy|[101.png](https://cdn.heweather.com/cond_icon/101.png "多云图标")|
-|102|少云|Few|Clouds|[102.png](https://cdn.heweather.com/cond_icon/102.png "少云图标")|
+|102|少云|Few Clouds|[102.png](https://cdn.heweather.com/cond_icon/102.png "少云图标")|
 |103|晴间多云|Partly Cloudy|[103.png](https://cdn.heweather.com/cond_icon/103.png "晴间多云图标")|
 |104|阴|Overcast|[104.png](https://cdn.heweather.com/cond_icon/104.png "阴图标")|
 |200|有风|Windy|[200.png](https://cdn.heweather.com/cond_icon/200.png "有风图标")|
@@ -76,7 +76,7 @@
 |512|重度霾|Heavy haze|[512.png](https://cdn.heweather.com/cond_icon/512.png "重度霾图标")|
 |513|严重霾|Severe haze|[513.png](https://cdn.heweather.com/cond_icon/513.png "重度霾图标")|
 |514|大雾|Heavy fog|[514.png](https://cdn.heweather.com/cond_icon/514.png "大雾图标")|
-|515|特强浓雾|Extra heavy|fog|[515.png](https://cdn.heweather.com/cond_icon/515.png "特强浓雾图标")|
+|515|特强浓雾|Extra heavy fog|[515.png](https://cdn.heweather.com/cond_icon/515.png "特强浓雾图标")|
 |900|热|Hot|[900.png](https://cdn.heweather.com/cond_icon/900.png "热图标")|
 |901|冷|Cold|[901.png](https://cdn.heweather.com/cond_icon/901.png "冷图标")|
 |999|未知|Unknown|[999.png](https://cdn.heweather.com/cond_icon/999.png "未知图标")|
