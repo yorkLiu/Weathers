@@ -32,7 +32,7 @@
 |212|龙卷风|Tornado|[212.png](https://cdn.heweather.com/cond_icon/212.png "龙卷风图标")|
 |213|热带风暴|Tropical Storm|[213.png](https://cdn.heweather.com/cond_icon/213.png "热带风暴图标")|
 |300|阵雨|Shower Rain|[300.png](https://cdn.heweather.com/cond_icon/300.png "阵雨图标")|
-|301|强阵雨|Heavy Shower|Rain|[301.png](https://cdn.heweather.com/cond_icon/301.png "强阵雨图标")|
+|301|强阵雨|Heavy Shower Rain|[301.png](https://cdn.heweather.com/cond_icon/301.png "强阵雨图标")|
 |302|雷阵雨|Thundershower|[302.png](https://cdn.heweather.com/cond_icon/302.png "雷阵雨图标")|
 |303|强雷阵雨|Heavy Thunderstorm|[303.png](https://cdn.heweather.com/cond_icon/303.png "强雷阵雨图标")|
 |304|雷阵雨伴有冰雹|Thundershower with hail|[304.png](https://cdn.heweather.com/cond_icon/304.png "雷阵雨伴有冰雹图标")|
